@@ -28,7 +28,7 @@ Para executar o relógio localmente:
 
 ## Demonstração
 
-Você pode visualizar o relógio digital em funcionamento [aqui](#https://felipepalage.github.io/relogio-digital/) ([insira o link para a demonstração ao vivo, se disponível](https://felipepalage.github.io/relogio-digital/)).
+Você pode visualizar o relógio digital em funcionamento [aqui](#https://felipepalage.github.io/relogio-digital/) ([relógio digitall](https://felipepalage.github.io/relogio-digital/)).
 
 ## Contribuições
 
